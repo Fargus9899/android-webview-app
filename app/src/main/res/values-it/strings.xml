@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Sei offline</string>
+    <string name="error_message">Controlla la connessione a internet e riprova. Riprenderemo esattamente da dove eri rimasto.</string>
+    <string name="retry">Riprova</string>
+    <string name="no_app_found">Nessuna app disponibile per aprire questo link</string>
+    <string name="download_started">Download avviato: %1$s</string>
+
+    <string name="theme_button_description">Cambia tema</string>
+    <string name="theme_title">Aspetto</string>
+    <string name="theme_subtitle">Scegli come appare l\'app</string>
+    <string name="theme_system">Automatico</string>
+    <string name="theme_light">Chiaro</string>
+    <string name="theme_dark">Scuro</string>
+    <string name="theme_system_hint">Automatico segue le impostazioni del dispositivo e cambia da solo.</string>
+
+    <string name="browser_close">Chiudi scheda</string>
+    <string name="browser_share">Condividi</string>
+    <string name="browser_more">Altre opzioni</string>
+    <string name="browser_reload">Ricarica</string>
+    <string name="browser_copy_link">Copia link</string>
+    <string name="browser_open_external">Apri nel browser</string>
+    <string name="browser_link_copied">Link copiato</string>
+    <string name="browser_loading">Caricamento…</string>
+    <string name="browser_secure">Connessione sicura</string>
+    <string name="browser_error">Pagina non disponibile</string>
+</resources>

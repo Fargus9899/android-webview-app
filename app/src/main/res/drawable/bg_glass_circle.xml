@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Frosted-glass floating button -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/ripple">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/glass_fill" />
+            <stroke android:width="1dp" android:color="@color/outline" />
+        </shape>
+    </item>
+</ripple>

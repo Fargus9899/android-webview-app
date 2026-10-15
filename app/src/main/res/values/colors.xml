@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- "brand" is defined in app/build.gradle.kts. Dark variants live in values-night/colors.xml -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_elevated">#FFFFFF</color>
+    <color name="surface_container">#F1F5F9</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="icon_circle">#F1F5F9</color>
+    <color name="outline">#1F0F172A</color>
+    <color name="outline_strong">#330F172A</color>
+    <color name="scrim">#520F172A</color>
+    <color name="glass_fill">#E6FFFFFF</color>
+    <color name="ripple">#1F0F172A</color>
+</resources>
